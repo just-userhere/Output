@@ -9,11 +9,11 @@ a concise, source-grounded briefing.
 
 ## Latest report
 
-### September 19, 2026
+### September 20, 2026
 
-20 technology news items archived across 4 publication days.
+25 technology news items archived across 5 publication days.
 
-[Read the latest report →](September/2026-09-19.md)
+[Read the latest report →](September/2026-09-20.md)
 
 ## Monthly archive
 
@@ -21,13 +21,13 @@ Reports are organized by month, one Markdown file per publication date (`YYYY-MM
 
 | Month | Reports | News items |
 |---|---:|---:|
-| [September](September/) | 4 | 20 |
+| [September](September/) | 5 | 25 |
 
 ## Technology categories
 
-- Programming: 9
+- Programming: 13
 - DevOps: 7
-- Cybersecurity: 2
+- Cybersecurity: 3
 - Artificial Intelligence: 2
 
 Full category list: Artificial Intelligence, Cybersecurity, Cloud, DevOps, Programming,
@@ -48,5 +48,5 @@ Hardware, Startups, Databases, Web, Open Source, Technology.
 
 ## Statistics
 
-- Total news items: 20
-- Publication days: 4
+- Total news items: 25
+- Publication days: 5
