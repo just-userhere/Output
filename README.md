@@ -9,11 +9,11 @@ a concise, source-grounded briefing.
 
 ## Latest report
 
-### November 14, 2026
+### November 15, 2026
 
-300 technology news items archived across 60 publication days.
+305 technology news items archived across 61 publication days.
 
-[Read the latest report →](November/2026-11-14.md)
+[Read the latest report →](November/2026-11-15.md)
 
 ## Monthly archive
 
@@ -21,15 +21,15 @@ Reports are organized by month, one Markdown file per publication date (`YYYY-MM
 
 | Month | Reports | News items |
 |---|---:|---:|
-| [November](November/) | 14 | 70 |
+| [November](November/) | 15 | 75 |
 | [October](October/) | 31 | 155 |
 | [September](September/) | 15 | 75 |
 
 ## Technology categories
 
-- Programming: 187
+- Programming: 191
 - Artificial Intelligence: 66
-- Cybersecurity: 15
+- Cybersecurity: 16
 - DevOps: 12
 - Cloud: 11
 - Developer Tools: 5
@@ -54,5 +54,5 @@ Hardware, Startups, Databases, Web, Open Source, Technology.
 
 ## Statistics
 
-- Total news items: 300
-- Publication days: 60
+- Total news items: 305
+- Publication days: 61
